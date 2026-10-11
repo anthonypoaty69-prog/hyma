@@ -1,0 +1,2 @@
+/* Réglages publics du projet Supabase « Hyma » (la clé « anon » est faite pour être publique ; la sécurité repose sur les règles RLS de la base). */
+window.HYMA_CFG={url:'https://yppmpbocyyjbovdjmkcs.supabase.co',key:'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InlwcG1wYm9jeXlqYm92ZGpta2NzIiwicm9sZSI6ImFub24iLCJpYXQiOjE3OTE1OTQ2MzYsImV4cCI6MjEwNzE3MDYzNn0.v55re1itPt9FSUVhyEYB8uto4V3kd9D0hMI2ChUe44A'};
