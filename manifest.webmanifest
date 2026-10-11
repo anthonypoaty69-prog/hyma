@@ -1,0 +1,38 @@
+{
+ "name": "HYMA — Une peau saine, une vie plus belle",
+ "short_name": "HYMA",
+ "description": "Pré-orientation dermatologique simple, confidentielle et guidée.",
+ "lang": "fr",
+ "dir": "ltr",
+ "id": "./",
+ "start_url": "./",
+ "scope": "./",
+ "display": "standalone",
+ "orientation": "portrait",
+ "background_color": "#F9F3F1",
+ "theme_color": "#51212F",
+ "categories": [
+  "health",
+  "medical"
+ ],
+ "icons": [
+  {
+   "src": "icon-192.png",
+   "sizes": "192x192",
+   "type": "image/png",
+   "purpose": "any"
+  },
+  {
+   "src": "icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "any"
+  },
+  {
+   "src": "icon-maskable-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "maskable"
+  }
+ ]
+}
